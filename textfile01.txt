@@ -1,10 +1,1 @@
-Anleitung git:
-
-github.com aufrufen -> Account erstellen
-git herunterladen
-
-git clone repo
-collaborators hinzufügen
-git pull 
-jeder erstellt ein textfile in repo
-git commit und git push
+test
