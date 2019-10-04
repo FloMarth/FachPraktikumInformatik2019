@@ -1,4 +1,4 @@
-Anleitung git:
+﻿Anleitung git:
 
 github.com aufrufen -> Account erstellen
 git herunterladen
@@ -8,3 +8,9 @@ collaborators hinzufügen
 git pull 
 jeder erstellt ein textfile in repo
 git commit und git push
+
+Warum Git? 
+
+Git wird verwendet, um Versionen zu verwalten. Man stelle sich folgendes Szenario vor:
+Zwei Personen möchten gleichzeitig ein Dokument verwalten. Doch woher soll diese Person wissen, ob das Dokument aktuell ist?
+Dafür wird git verwendet. 
